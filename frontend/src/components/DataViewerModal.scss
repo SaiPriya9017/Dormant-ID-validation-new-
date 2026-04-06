@@ -1,0 +1,34 @@
+.data-viewer-modal {
+  .cds--modal-container {
+    max-width: 90vw;
+    max-height: 90vh;
+  }
+
+  .cds--modal-content {
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+
+  .cds--data-table-container {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+
+  .cds--table-toolbar {
+    display: none;
+  }
+
+  .error-state {
+    padding: 2rem;
+    text-align: center;
+    color: #ff8389;
+  }
+
+  .cds--pagination {
+    margin-top: 1rem;
+    border-top: 1px solid #393939;
+    padding-top: 1rem;
+  }
+}
+
+// Made with Bob

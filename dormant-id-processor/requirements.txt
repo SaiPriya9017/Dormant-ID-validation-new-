@@ -1,0 +1,17 @@
+# Core dependencies
+requests==2.31.0
+aiofiles==23.2.1
+python-dotenv==1.0.0
+
+# CLI and progress
+click==8.1.7
+tqdm==4.66.1
+
+# Logging
+colorlog==6.8.0
+
+# Retry logic
+tenacity==8.2.3
+
+# Data handling
+orjson==3.9.12
